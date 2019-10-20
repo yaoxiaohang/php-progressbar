@@ -38,6 +38,7 @@ $progress->finish();
 ### Using Composer
 
 Get the package:
+
 ```
 $ composer require yxh/php-progressbar
 ```
@@ -45,6 +46,7 @@ $ composer require yxh/php-progressbar
 ### Manual Installation
 
 Clone git repository:
+
 ```
 $ git clone https://github.com/yaoxiaohang/php-progressbar.git
 ```
