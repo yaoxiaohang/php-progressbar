@@ -1,7 +1,7 @@
 
-## PHP 命令行进度条
+# PHP 命令行进度条
 
-### 使用
+## 使用 Example
 ```php
 $count = 100;
 //创建进度条
@@ -26,8 +26,26 @@ for ($i = 0; $i < $count; $i ++){
 $progress->finish();
 ```
 
+## Requirements
 
+- PHP version 5.4.0 or higher
 
+## Installation
+
+### Using Composer
+
+Get the package:
+```
+$ composer require yxh/php-progressbar
+```
+
+### Manual Installation
+
+Clone git repository:
+```
+$ https://github.com/yaoxiaohang/php-progressbar.git
+```
+or download the package at https://github.com/yaoxiaohang/php-progressbar/archive/master.zip
 
 
 
