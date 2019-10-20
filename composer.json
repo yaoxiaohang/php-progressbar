@@ -1,8 +1,9 @@
 {
     "name": "yxh/php-progressbar",
-    "description": "php 进度条",
+    "description": "php进度条",
     "version": "1.0.0",
-    "license": "MIT",
+    "license": "BSD-3-Clause",
+    "keywords": ["php进度条","进度条","php"],
     "authors": [
         {
             "name": "yxh",
