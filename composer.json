@@ -1,0 +1,17 @@
+{
+    "name": "yxh/php-progressbar",
+    "description": "php 进度条",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "yxh",
+            "email": "515252718@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ProgressBar\\": "src/"
+        }
+    }
+}
