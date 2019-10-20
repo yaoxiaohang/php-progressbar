@@ -2,6 +2,7 @@
     "name": "yxh/php-progressbar",
     "description": "php 进度条",
     "version": "1.0.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "yxh",
