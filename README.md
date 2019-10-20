@@ -46,7 +46,7 @@ $ composer require yxh/php-progressbar
 
 Clone git repository:
 ```
-$ https://github.com/yaoxiaohang/php-progressbar.git
+$ git clone https://github.com/yaoxiaohang/php-progressbar.git
 ```
 or download the package at https://github.com/yaoxiaohang/php-progressbar/archive/master.zip
 
