@@ -1,7 +1,10 @@
 
 # PHP 命令行进度条
 
+PHP ProgressBar
+
 ## 使用 Example
+
 ```php
 $count = 100;
 //创建进度条
